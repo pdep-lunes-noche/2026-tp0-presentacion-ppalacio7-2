@@ -20,7 +20,14 @@
 
 >Adjunto foto de mi y motocicleta y futuras motos.
 
-![MotoRoja](./Moto-1.jpg)
-![MotoRoja1](./Moto-2.jpg)
-![Yo](./Yo-1.jpg)
-![Yo1](./Yo-1.jpg)
+#Moto 
+
+![MotoRoja](Moto-1.jpeg)
+![MotoRoja1](Moto-2.jpeg)
+
+#Yo 
+
+![Yo](Yo-1.jpeg)
+![Yo1](Yo-2.jpeg)
+
+>La motocicleta que se ve en IMAGEN es la HONDA XR250 . Hermosa expericia para enduro esa moto.
