@@ -10,7 +10,7 @@
 
 >También hice enduro, así que me gusta meterme en lo complicado, no solo andar tranqui.
 
->Tuve varios accidentes… cuatro en total. El último fue heavy: me quebré el hombro en tres partes y la muñeca en cuatro. Pero por suerte se curó sin operación, con todos los cuidados.
+>Tuve varios accidentes… cuatro en total. El último fue heavy: me quebré el Codo en tres partes y la Muñeca en cuatro. Pero por suerte se curó sin operación, con todos los cuidados.
 
 >Y nada… eso no me frena. Al contrario.
 
@@ -18,7 +18,7 @@
 
 >Mi legajo es 175.324-1.
 
->Adjunto foto de mi y motocicleta y futuras motos.
+>Adjunto foto de mi y motocicleta.
 
 #Moto 
 
